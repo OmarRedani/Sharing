@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TPCalculMICDA</string>
+    <string name="calcul">CALCUL</string>
+    <string name="transfer_result">TRANSFER DONNEES!!!</string>
+    <string name="hint1">Taper un nombre !</string>
+    <string name="op1">+</string>
+    <string name="op2">-</string>
+    <string name="op3">x</string>
+</resources>
